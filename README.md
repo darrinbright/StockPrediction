@@ -1,4 +1,4 @@
-# Stock-Prediction-Using-LSTM
+# Stock-Prediction-using-LSTM
 Stock price prediction involves analyzing historical stock price data with factors like economic conditions, company news, and market sentiments, thereby making the stock prices dynamic and volatile. While stock price prediction is challenging, advances in machine learning, like LSTM networks, show promise in improving accuracy.
 
 The primary goal of this project is to create a Stock market prediction model using Long Short-Term Model(LSTM).
